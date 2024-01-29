@@ -51,6 +51,9 @@ h3{
     text-align: center;
     line-height: 1em;
 }
+.workCited{
+    padding: .5em;
+}
 img{
     width: 100%;
     max-width: 100%;
@@ -58,12 +61,29 @@ img{
 #container {
 	padding-bottom: 3rem;
 }
-
-
-
-
-
-
+.back-to-top {
+    /* position properties */
+    text-decoration: none;
+    padding: 1em;
+    background-color: #444a;
+    border-radius: 0.5em;
+    font-weight: bold;
+    line-height: 0.5;
+    font-family: "Quicksand", sans-serif;
+    font-size: 1rem;
+    color: white;
+  }
+.back-to-top:hover {
+    background-color: #444f;
+    color: white;
+}
+footer {
+    text-align: center;
+  }
+  
+  footer p {
+    margin: 0;
+  }
 
 /* Class for making YouTube/Vimeo videos responsive */
 
