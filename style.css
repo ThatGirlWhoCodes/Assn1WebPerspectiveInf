@@ -43,6 +43,7 @@ h3{
 }
 img{
     width: 100%;
+    max-width: 100%;
 }
 #container {
 	padding-bottom: 3rem;
