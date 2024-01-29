@@ -1,5 +1,5 @@
 /* Basic CSS resets -- leveling slight inconsistencies in browsers */
-@import url('https://fonts.googleapis.com/css2?family=Satisfy&family=Sixtyfour&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
 
 *{
     box-sizing: border-box;
@@ -32,7 +32,7 @@ header{
 }
 .titleOfArticle{
     font-size: 4rem;
-    font-family: 'Satisfy', cursive;
+    font-family: 'Honk', system-ui;
     padding: 4rem; 
     text-align: center;
 }
