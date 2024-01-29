@@ -1,7 +1,12 @@
 /* Basic CSS resets -- leveling slight inconsistencies in browsers */
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&family=Sixtyfour&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
 html, body {
-	margin:0px;
-	padding:0px;
 	height:100%;
 }
 
@@ -16,14 +21,31 @@ html {
 
 /* Mobile First CSS: we'll design for phone sizes first, then add media queries for tablets and desktop computers later */
 
-body {
-	
-	
+main {
+	width: auto;
+    text-align: left;
+    padding: 1rem;
+
 }
-
-
+header{
+    text-align: center;
+}
+.titleOfArticle{
+    font-size: 4rem;
+    font-family: 'Satisfy', cursive;
+    padding: 4rem; 
+    text-align: center;
+}
+h3{
+    padding: 2rem;
+    font-size: 2rem;
+    text-align: center;
+}
+img{
+    width: 100%;
+}
 #container {
-	
+	padding-bottom: 3rem;
 }
 
 
