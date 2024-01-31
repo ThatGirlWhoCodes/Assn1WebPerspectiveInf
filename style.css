@@ -49,13 +49,16 @@ h2{
 }
 h3{
     color: #000;
-    padding: 2rem;
+    padding: .5rem;
     font-size: 2rem;
     text-align: center;
     line-height: 1em;
 }
 .workCited{
     padding: .5em;
+    line-height: 1.75;
+    margin: 1em;
+    font-size: 1rem;
 }
 img{
     display: block;
