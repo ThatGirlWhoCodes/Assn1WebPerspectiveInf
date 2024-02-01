@@ -17,9 +17,6 @@ html {
     line-height: 1.4em;
 }
 
-
-
-
 /* Mobile First CSS: we'll design for phone sizes first, then add media queries for tablets and desktop computers later */
 
 main {
@@ -36,7 +33,7 @@ h2{
 }
 .titleOfArticle{
     font-size: 4rem;
-    font-family: 'Honk', system-ui;
+     font-family: 'Honk', system-ui;
     padding: 4rem; 
     text-align: center;
 }
