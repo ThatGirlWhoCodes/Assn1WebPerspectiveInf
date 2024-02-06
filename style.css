@@ -75,7 +75,7 @@ img{
     text-align: center;
     line-height: 1em;
 }
-.p1, .p2, .p3, .p4, .p5, .p6, .p7{
+p{
     line-height: 1.75;
     margin: 1em;
     font-size: 1.25rem;
@@ -100,7 +100,7 @@ footer {
     text-align: center;
   }
   
-  footer p {
+footer p {
     margin: 0;
   }
 
