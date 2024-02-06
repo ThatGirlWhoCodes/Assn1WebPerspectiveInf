@@ -28,23 +28,17 @@ main {
 header{
     text-align: center;
 }
+
 h2{
-    padding: 0;
+    padding: .5rem;
 }
 .titleOfArticle{
     font-size: 4rem;
-     font-family: 'Honk', system-ui;
+    font-family: 'Honk', system-ui;
     padding: 4rem; 
     text-align: center;
 }
-.titleOfArticle2{
-    font-size: 4rem;
-    font-family: 'Honk', system-ui;
-    padding: 4rem;
-    padding-top: 0; 
-    text-align: center;
-}
-h3{
+#mainTopic{
     color: #000;
     padding: .5rem;
     font-size: 2rem;
@@ -66,7 +60,6 @@ img{
 }
 #container {
 	padding: 3rem;
-    
 }
 .p6{
     color: #000;
